@@ -27,5 +27,5 @@
 
 
 ### Отчёт о покрытии кода тестами
-![report](report.png)
+![report](report.jpg)
 # Testing
